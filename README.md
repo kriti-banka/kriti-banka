@@ -2,8 +2,8 @@
 
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NpZmY0amZwa3kxemRkYXdxamYxa3YyOWljcHJ0dDB6dDdkOWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Oa5op39YNH8QMAaEco/giphy.gif"width="100"/>
-<a href="https://twitter.com/ejajsaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ejajsaifi" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ejajahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ejajahmad/" height="30" width="40" /></a>  
+<a href="https://x.com/BankaKriti75801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kriti Banka" height="30" width="40" /></a>  
+<a href="www.linkedin.com/in/kriti-banka-083655221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://x.com/BankaKriti75801" height="30" width="40" /></a>  
 </div>
 
 <h2 align="left">🌟 About Me</h2>
