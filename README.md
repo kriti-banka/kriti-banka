@@ -77,6 +77,17 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
+## 📈 Some Github Stats
+<span align="left">
+
+![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kriti-banka&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kriti-banka&show_icons=true&locale=en&layout=compact" alt="Kriti Banka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kriti-banka&" alt="Kriti Banka" /></p>
+
+
 
 
  
