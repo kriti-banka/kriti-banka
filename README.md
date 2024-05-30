@@ -20,7 +20,7 @@
 
 <h2 align="left"> 🔭 Current Projects </h2>
 
-- College Vidya App (Flutter)
+- College Vidya App
   
   <i>Description:</i> <p>CollegeVidya is a feature-rich mobile app crafted with Flutter, blending Dart and Java for a seamless frontend experience. Integrating OAuth   authentication and RESTful APIs, it streamlines college activities and information access.</p>
   
