@@ -79,10 +79,7 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
-<h2 align="left"> Coding Stats </h2>
-<div align="left">
-<img src="https://leetcard.jacoblin.cool/Kriti_Banka" alt="Leetcode Stats">
-</div>
+
 
 ## 📈 Some Github Stats
 <span align="left">
