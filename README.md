@@ -9,6 +9,9 @@
 </div>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kriti-banka&label=Profile%20views&color=7373cf&style=flat" alt="Kriti Banka" /> </p>
+
+
 <h2 align="left">🌟 About Me</h2>
 
 <p align="justify">I embarked on my computer science journey in class 11, starting with Python and quickly expanding my horizons. My first significant project, R.A.O.D.S (Reduction of Accidents from Overspeeding and Drunken Driving), earned me a spot in the finals of IBM's AI Sewa competition and a place in the top 10 at the ATL Innovation showcase.</p>
