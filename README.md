@@ -9,7 +9,6 @@
 </div>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kriti-banka&label=Profile%20views&color=7373cf&style=flat" alt="Kriti Banka" /> </p>
 
 
 <h2 align="left">🌟 About Me</h2>
@@ -79,6 +78,11 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
+
+<h2 align="left"> Coding Stats </h2>
+<div align="left">
+<img src="https://leetcard.jacoblin.cool/Kriti_Banka" alt="Leetcode Stats">
+</div>
 
 ## 📈 Some Github Stats
 <span align="left">
