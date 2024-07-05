@@ -13,7 +13,7 @@
 
 <h2 align="left">🌟 About Me</h2>
 
-<p align="justify">I embarked on my computer science journey in class 11, starting with Python and quickly expanding my horizons. My first significant project, R.A.O.D.S (Reduction of Accidents from Overspeeding and Drunken Driving), earned me a spot in the finals of IBM's AI Sewa competition and a place in the top 10 at the ATL Innovation showcase.</p>
+<p align="justify">I embarked on my computer science journey in class 11, starting with Python and quickly expanding my horizons. My first significant project, R.A.O.D.S (Reduction of Accidents from Overspeeding and Drunken Driving), earned me a spot in the finals of IBM's AI Sewa competition and a place in the top 10 at the ATL Marathon.</p>
 
 <p align="justify">My academic path advanced at BML Munjal University, where I pursued a BTech in Computer Science and Engineering, consistently maintaining above 80% in my coursework. As I delved deeper into Python and explored new languages, my interests broadened to encompass Data Science, Machine Learning, Web Development, Mobile Application Development, and Full Stack Development.</p>
 
